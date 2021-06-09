@@ -1,5 +1,5 @@
 
-import './App.css';
+import './index.css';
 import App_canvas from './app/index';
 function App() {
   return (
